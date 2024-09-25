@@ -46,15 +46,9 @@ A backend server is the part of a website or application that is not visible to 
 
 A database is an organized collection of data stored in a computer system and usually controlled by a database management system (DBMS). The data in common databases is modeled in tables, making querying and processing efficient. Structured query language (SQL) is commonly used for data querying and writing.
 
-```Types of database```
-
-* **Relational Databases**: A relational database’s contents are arranged as a collection of tables with rows and columns. Accessing structured data is made most flexible and efficient by relational database technology.
-
-* **Object-Oriented Databases**: Similar to object-oriented programming, data in an object-oriented database is represented as objects.
-
-* **Distributed Databases**: A distributed database is made up of two or more files that are spread across multiple locations. The database could be dispersed across many networks, housed in one physical place, or kept on several computers.**
-
 ### API 
+
+API stands for Application Programming Interface. In the context of APIs, the word Application refers to any software with a distinct function. Interface can be thought of as a contract of service between two applications. This contract defines how the two communicate with each other using requests and responses. Their API documentation contains information on how developers are to structure those requests and responses.
 
 
 
